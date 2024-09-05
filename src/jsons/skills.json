@@ -11,8 +11,6 @@
     { "name": "Laravel", "rate": "80" }
   ],
   "techs_2": [
-      { "name": "AWS EC2", "rate": "10" },
-      { "name": "Mobile Legend", "rate": "70" },
-      { "name": "Call of Duty Mobile BR", "rate": "80" }
+      { "name": "AWS EC2", "rate": "5" }
   ]
 }
