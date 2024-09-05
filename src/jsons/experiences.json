@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "company": "Municipal Government of Tubigon",
+      "title": "Student Intern (SPES Program) - Sports Committee",
+      "duration": "Summer 2019",
+      "tasks": [
+        "Assisted in organizing and coordinating local sports events and activities for the community.",
+        "Supported the Sports Committee in planning tournaments, scheduling events, and managing logistics.",
+        "Engaged with community members, promoting participation in sports programs and events.",
+        "Helped maintain records of participants, results, and event outcomes."
+      ]
+    },
+    {
+      "company": "Municipal Government of Tubigon",
+      "title": "Student Intern (SPES Program) - IT Support",
+      "duration": "Summer 2018",
+      "tasks": [
+        "Assisted with basic IT tasks like setting up equipment and troubleshooting simple issues.",
+        "Helped with organizing and digitizing documents for easier access.",
+        "Provided general support to the IT department as needed.",
+        "Gained experience in a professional setting while learning from senior staff."
+      ]
+    }    
+  ]
+}
